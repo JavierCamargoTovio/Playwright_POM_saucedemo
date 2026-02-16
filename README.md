@@ -38,10 +38,5 @@ Día 1: Creación de la estructura de carpetas y Page Objects (Login e Inventory
 Día 2: Lógica de selección aleatoria y validación de cálculos en Checkout.
 Día 3: Configuración del YAML de GitHub Actions y pruebas de regresión.
 
-¿Cómo deseas continuar?
-Puedo ayudarte con:
-El código completo de los Page Objects basados en este plan.
-El script de la selección aleatoria (es la parte más técnica).
-La configuración del archivo playwright.config.ts para optimizarlo para GitHub.
 
 
